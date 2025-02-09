@@ -1,5 +1,5 @@
 # TasksMsrv
-Application that allows you to manage your daily tasks dynamically.
+Backend for an application that allows you to manage your daily tasks dynamically.
 
 Technologies used:
 - Java 21
